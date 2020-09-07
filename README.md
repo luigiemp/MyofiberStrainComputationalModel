@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
-This supplementary dataset contains the model data for the swine subjects presented in Perotti et al.
+This supplementary dataset contains the model data for the subjects presented in Perotti et al.
 If you have any questions or concerns, please contact Luigi Perotti (luigi.perotti@ucf.edu) and Ilya Verzhbinsky (iverzhbi@health.ucsd.edu).
 ----------------------------------------------------------------------------------------------------  
 
